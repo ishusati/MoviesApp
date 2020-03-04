@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>771561745083-786flh6c2dbrh0u8ojspp3cn9jm6m16l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.771561745083-786flh6c2dbrh0u8ojspp3cn9jm6m16l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBewNvuBioQyq5FiCWTw4I30fAImnfkpk8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>771561745083</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zerones.klippit</string>
+	<key>PROJECT_ID</key>
+	<string>movies-c0d22</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movies-c0d22.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:771561745083:ios:63e6595546de465463179e</string>
+	<key>DATABASE_URL</key>
+	<string>https://movies-c0d22.firebaseio.com</string>
+</dict>
+</plist>
